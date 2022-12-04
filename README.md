@@ -1,9 +1,7 @@
 A React app to search GitHub profiles and see profile details.\
-Tech Stack: React, TailwindCSS.\
+Tech Stack: React, Tailwind CSS.
 
 "To work properly add your Github token to the env file"
-
-### `npm install`
 
 ### `npm start`
 

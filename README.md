@@ -3,6 +3,9 @@ Tech Stack: React, TailwindCSS.
 
 "To work properly add your Github token to env"
 
+Give it a try: https://github-finder-dusky-two.vercel.app/
+
+
 <img src="https://github.com/Salaheddine999/Github_Finder/blob/main/src/assets/gpf1.PNG" width="350" title="hover text">
 <img src="https://github.com/Salaheddine999/Github_Finder/blob/main/src/assets/gpf2.PNG" width="350" title="hover text">
 <img src="https://github.com/Salaheddine999/Github_Finder/blob/main/src/assets/gpf3.PNG" width="350" title="hover text">
